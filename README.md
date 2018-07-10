@@ -8,6 +8,8 @@ This example is to show different parts of git.
 
 ## Purpose
 
+Purpose is to learn git.
+
 ## Deployment
 
 ## How to contribute
