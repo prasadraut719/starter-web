@@ -12,4 +12,8 @@ Purpose is to learn git.
 
 ## Deployment
 
+This is deployment section.
+
 ## How to contribute
+
+Hey
