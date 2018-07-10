@@ -1,2 +1,4 @@
 .dummyFile
 .gitingnore
+*.log
+logs/
