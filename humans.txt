@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Prasad prasad@git.com
 
 # THANKS
 
