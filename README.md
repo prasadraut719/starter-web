@@ -17,3 +17,7 @@ This is deployment section.
 ## How to contribute
 
 Hey
+
+### Copyright
+
+Git training
