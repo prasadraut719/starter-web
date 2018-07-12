@@ -16,7 +16,7 @@ This is deployment section.
 
 ## How to contribute
 
-Hey
+Hey u can contribite by any way you want.
 
 ### Copyright
 
