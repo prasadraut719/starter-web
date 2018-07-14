@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project for showing how to use git and github together.
-Adding some text. more text from myfeature branch.
+Adding some text. Modifying for stashing.
 
 ## Introduction
 
