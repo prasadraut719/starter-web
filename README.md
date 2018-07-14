@@ -21,4 +21,4 @@ Hey u can contribite by any way you want.
 
 ### Copyright
 
-Git training
+Git training. All copyrights reserved.
